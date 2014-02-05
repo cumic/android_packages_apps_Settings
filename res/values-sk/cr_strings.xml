@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
@@ -7,9 +7,9 @@
     
     <!-- General strings -->
     <string name="reset">Obnoviť</string>
-    <string name="enabled">Zapnutý</string>
+    <string name="enabled">Zapnuté</string>
     <string name="attention">Upozornenie</string>
-    <string name="disabled">Vypnutý</string>
+    <string name="disabled">Vypnuté</string>
     <string name="default_string">Predvolené</string>
     <string name="additional_options_title">Ďalšie nastavenia</string>
     <string name="reset_message">Obnoviť všetky hodnoty na predvolené?</string>

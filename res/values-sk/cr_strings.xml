@@ -3,7 +3,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- About phone screen, temasek version -->
-    <string name="temasek_version_title">Temasek unofficial version</string>
+    <string name="temasek_version_title">Temasek unofficial version 42</string>
     
     <!-- General strings -->
     <string name="reset">Obnoviť</string>

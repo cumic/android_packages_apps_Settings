@@ -408,7 +408,7 @@
     <string name="sensors_motors_title">Senzory &amp; pohyb</string>
     <string name="display_calibration_title">Kalibrácia displeja</string>
     
-    !-- Launch music player when headset is connected -->
+    <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Zapnúť prehrávač hudby</string>
     <string name="headset_connect_player_summary">Zapne predvolený prehrávač hudby po pripojení slúchadiel</string>
     
